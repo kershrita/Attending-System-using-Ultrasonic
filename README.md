@@ -52,7 +52,7 @@ To get started with the attendance system using the ultrasonic sensor, follow th
 
 ## Circuit
 
-![Circuit Diagram](Circuit.png)
+![Circuit Diagram](Circuit.jpg)
 
 ## Contributing
 
