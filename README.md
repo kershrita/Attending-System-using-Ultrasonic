@@ -26,8 +26,8 @@ To get started with the attendance system using the ultrasonic sensor, follow th
 3. Make sure the Arduino board is selected under the Tools menu and the necessary libraries are installed:
 - Go to **Sketch** -> **Include Library** -> **Manage Libraries**.
 - Search for and install the following libraries:
-    -- `Wire`
-    -  `LiquidCrystal_I2C`
+    - `Wire`
+    - `LiquidCrystal_I2C`
     - `Ultrasonic`
 4. Click the Upload button to upload the code to the Arduino board.
 5. Once the code is uploaded, open the serial monitor to view the measured distances from the ultrasonic sensors.
@@ -38,8 +38,8 @@ To get started with the attendance system using the ultrasonic sensor, follow th
 10. You can adjust the **threshold** value in the code to fine-tune the sensitivity of the ultrasonic sensors.
 
 **Note**: 
-- Place the device against a wall or any other flat surface, leaving a distance of at least 70 cm between the device and the wall. This will help ensure accurate readings from the ultrasonic sensor.
-- Place the two ultrasonic sensors at least 35 cm apart.
+- Place the device against a wall or any other flat surface, leaving a distance of at least **70 cm** between the device and the wall. This will help ensure accurate readings from the ultrasonic sensor.
+- Place the two ultrasonic sensors at least **35 cm** apart.
 
 ## Components
 
